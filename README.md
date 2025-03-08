@@ -7,5 +7,5 @@ Used HistGradientBoostingClassifier as it provided good results individually and
 Official repo for - Stealth 
 
 ## 🚀 Key Features
-- 🔹 Feature 1: Describe the key advantage of your project.
+-  Feature 1: Describe the key advantage of your project.
 ## 🛠 Instructions to Run the Code
